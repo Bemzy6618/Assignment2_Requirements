@@ -29,5 +29,9 @@ _As a **developer**, I want the system to execute an automated bias analysis on 
   -The bias analysis module must produce a quantitative report that meets the predefined threshold criteria.
   - The system must flag any data subsets where bias exceeds acceptable limits.
 
-  
+- **Actionable Tasks**:
+  - Integrate a bias detection algorithm into the data processing pipeline.
+  - Develop a reporting module (or dashboard) that displays bias scores per category.
+  - Create automated tests to ensure bias alerts trigger correctly when thresholds are breached.
+
 
