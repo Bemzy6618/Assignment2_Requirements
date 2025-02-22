@@ -101,3 +101,8 @@ _As a **system administrator**, I want to record audit logs for each data proces
 ### Requirement 2: Performance Monitoring of the Pipeline
 _As a **system administrator**, I want to measure processing times for each batch of training data to be able to ensure that the pipeline meets performance benchmarks_.
 
+- **Assumptions**:
+  - Processing time metrics are measurable accurately.
+- **Validations**:
+  - The system must process at least 1,000 training entries in under 60 seconds.
+
