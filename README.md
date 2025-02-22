@@ -86,3 +86,8 @@ _As a **developer**, I want the system to send automated notifications when bias
 ### Requirement 1: Audit Logging for Data Processing
 _As a **system administrator**, I want to record audit logs for each data processing step (web scraping, parsing, bias analysis) to be able to track the workflow_.
 
+- **Assumptions**:
+  - Each processing step can emit identifiable log events.
+- **Validations**:
+  - Logs must include timestamps, processing status, and error messages with a retention period of 30 days.
+
