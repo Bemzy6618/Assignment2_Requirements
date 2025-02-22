@@ -70,3 +70,8 @@ _As a **developer**, I want the system to allow bias threshold values to be upda
 ### Additional Requirement 5: Automated Bias Alert Notifications
 _As a **developer**, I want the system to send automated notifications when bias scores exceed set thresholds to be able to address data quality issues immediately_.
 
+- **Assumptions**:
+  - A notification service (e.g., email or messaging) is available.
+- **Validations**:
+  - Alerts must trigger in at least 95% of cases where bias scores exceed acceptable limits.
+
