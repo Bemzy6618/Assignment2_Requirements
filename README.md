@@ -52,3 +52,6 @@ As a developer, I want the system to display a dashboard showing each training e
 - **Outcome**:
   - Developers can monitor data quality in real time, ensuring that issues in classification and bias are quickly identified and addressed.
 
+### Additional Requirement 4: Configurable Bias Threshold Settings
+_As a **developer**, I want the system to allow bias threshold values to be updated through a settings interface to be able to adjust parameters without code changes_.
+
