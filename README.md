@@ -116,3 +116,8 @@ _As a **system administrator**, I want to measure processing times for each batc
 ### Requirement 3: Secure Access Control
 _As a **system administrator**, I want to enforce role-based access control on the dashboard and configuration settings to be able to protect sensitive training data and parameters_.
 
+- **Assumptions**:
+  - An authentication mechanism exists for developers and authorized personnel.
+- **Validations**:
+  - Only authorized users must access the dashboard and settings; unauthorized attempts must be denied and logged.
+
