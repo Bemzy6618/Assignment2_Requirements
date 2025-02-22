@@ -67,3 +67,6 @@ _As a **developer**, I want the system to allow bias threshold values to be upda
 - **Outcome**:
   - Developers can update bias thresholds easily, ensuring the bias analysis remains relevant and aligned with current project requirements.
 
+### Additional Requirement 5: Automated Bias Alert Notifications
+_As a **developer**, I want the system to send automated notifications when bias scores exceed set thresholds to be able to address data quality issues immediately_.
+
