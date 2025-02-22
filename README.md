@@ -16,3 +16,6 @@ _As a **developer**, I want the web scraper to parse each training entry and ins
   - Modify the database schema to include a dedicated Question column.
   - Implement unit tests to verify classification accuracy.
 
+- **Outcome**:
+  - Training questions and answers are stored separately, enabling developers to quickly review and utilize the question data for further analysis and model training.
+
