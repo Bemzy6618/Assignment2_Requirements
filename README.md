@@ -19,3 +19,7 @@ _As a **developer**, I want the web scraper to parse each training entry and ins
 - **Outcome**:
   - Training questions and answers are stored separately, enabling developers to quickly review and utilize the question data for further analysis and model training.
 
+### Current Requirement 2: Automated Bias Analysis and Reporting
+_As a **developer**, I want the system to execute an automated bias analysis on the training data using predefined bias metrics to be able to verify that the data is balanced_.
+
+
