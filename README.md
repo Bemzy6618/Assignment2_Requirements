@@ -26,7 +26,7 @@ _As a **developer**, I want the system to execute an automated bias analysis on 
   - Bias metrics and acceptable thresholds are defined and documented.
   - The training data includes measurable indicators relevant for bias detection.
 - **Validations**:
-  -The bias analysis module must produce a quantitative report that meets the predefined threshold criteria.
+  - The bias analysis module must produce a quantitative report that meets the predefined threshold criteria.
   - The system must flag any data subsets where bias exceeds acceptable limits.
 
 - **Actionable Tasks**:
