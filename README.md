@@ -113,3 +113,6 @@ _As a **system administrator**, I want to measure processing times for each batc
 - **Outcome**:
   - The system consistently meets performance benchmarks, ensuring efficient processing of training data and a smooth workflow.
 
+### Requirement 3: Secure Access Control
+_As a **system administrator**, I want to enforce role-based access control on the dashboard and configuration settings to be able to protect sensitive training data and parameters_.
+
