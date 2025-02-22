@@ -22,4 +22,12 @@ _As a **developer**, I want the web scraper to parse each training entry and ins
 ### Current Requirement 2: Automated Bias Analysis and Reporting
 _As a **developer**, I want the system to execute an automated bias analysis on the training data using predefined bias metrics to be able to verify that the data is balanced_.
 
+- **Assumptions**:
+  - Bias metrics and acceptable thresholds are defined and documented.
+  - The training data includes measurable indicators relevant for bias detection.
+- **Validations**:
+  -The bias analysis module must produce a quantitative report that meets the predefined threshold criteria.
+  - The system must flag any data subsets where bias exceeds acceptable limits.
+
+  
 
