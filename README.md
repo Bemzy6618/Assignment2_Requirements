@@ -40,3 +40,8 @@ _As a **developer**, I want the system to execute an automated bias analysis on 
 ### Additional Requirement 3: Developer Dashboard for Data Quality
 As a developer, I want the system to display a dashboard showing each training entry’s question, answer, classification status, and bias score to be able to verify data quality immediately.
 
+- **Assumptions**:
+  - Parsing and bias analysis modules output structured data.
+- **Validations**:
+  - The dashboard must support filtering by classification status and bias score.
+
