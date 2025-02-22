@@ -128,3 +128,7 @@ _As a **system administrator**, I want to enforce role-based access control on t
 - **Outcome**:
   - Sensitive training data and system settings are securely protected, ensuring that only authorized personnel can access and modify critical information.
 
+## Summary
+- User Requirements (functional requirements) are written from the perspective of the developer (our client) who interacts with the system to verify data quality, adjust bias thresholds, and receive alerts.
+- System Requirements (non-functional requirements) are written from the perspective of the system itself, focusing on logging, performance, and security to ensure reliable and secure operations.
+These refined requirements adhere to best practices by being specific, measurable, testable, and actionable. They clearly separate the user’s needs from the system’s internal functions while providing a roadmap to push the project forward.
