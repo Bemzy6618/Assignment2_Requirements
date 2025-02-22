@@ -11,3 +11,8 @@ _As a **developer**, I want the web scraper to parse each training entry and ins
   - The system must correctly classify at least 95% of entries as questions or answers.
   - A validation report must log any entries that fail proper classification.
 
+- **Actionable Tasks**:
+  - Update the parsing algorithm to detect and extract question text.
+  - Modify the database schema to include a dedicated Question column.
+  - Implement unit tests to verify classification accuracy.
+
