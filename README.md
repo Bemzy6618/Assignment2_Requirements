@@ -98,3 +98,6 @@ _As a **system administrator**, I want to record audit logs for each data proces
 - **Outcome**:
   - Comprehensive audit logs provide traceability and ensuring that data processing issues can be quickly identified and resolved.
 
+### Requirement 2: Performance Monitoring of the Pipeline
+_As a **system administrator**, I want to measure processing times for each batch of training data to be able to ensure that the pipeline meets performance benchmarks_.
+
