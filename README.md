@@ -82,3 +82,7 @@ _As a **developer**, I want the system to send automated notifications when bias
 - **Outcome**:
   - Developers receive timely alerts about data imbalances, allowing for prompt corrective actions to maintain data quality.
 
+## System (Non-Functional) Requirements
+### Requirement 1: Audit Logging for Data Processing
+_As a **system administrator**, I want to record audit logs for each data processing step (web scraping, parsing, bias analysis) to be able to track the workflow_.
+
