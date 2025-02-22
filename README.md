@@ -55,3 +55,8 @@ As a developer, I want the system to display a dashboard showing each training e
 ### Additional Requirement 4: Configurable Bias Threshold Settings
 _As a **developer**, I want the system to allow bias threshold values to be updated through a settings interface to be able to adjust parameters without code changes_.
 
+- **Assumptions**:
+  - Predefined bias metrics exist and may require periodic adjustment based on evolving project needs.
+- **Validations**:
+  - The settings interface must persistently store threshold updates and apply them in future bias analyses.
+
