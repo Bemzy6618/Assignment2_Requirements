@@ -38,7 +38,7 @@ _As a **developer**, I want the system to execute an automated bias analysis on 
   - A comprehensive bias analysis report is generated automatically, enabling developers to identify and correct imbalances in the training data.
 
 ### Additional Requirement 3: Developer Dashboard for Data Quality
-As a developer, I want the system to display a dashboard showing each training entry’s question, answer, classification status, and bias score to be able to verify data quality immediately.
+_As a **developer**, I want the system to display a dashboard showing each training entry’s question, answer, classification status, and bias score to be able to verify data quality immediately_.
 
 - **Assumptions**:
   - Parsing and bias analysis modules output structured data.
